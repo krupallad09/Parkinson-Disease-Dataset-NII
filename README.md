@@ -1,1 +1,1 @@
-# convert-DCM-NII
+# Parkinson disease NII images
